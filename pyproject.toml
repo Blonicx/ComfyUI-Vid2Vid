@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-vid2vid"
+description = ""
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Blonicx/ComfyUI-Vid2Vid"
+
+[tool.comfy]
+PublisherId = "blonicx"
+DisplayName = "ComfyUI-Vid2Vid"
+Icon = ""
